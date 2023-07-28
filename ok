@@ -1,0 +1,3 @@
+local operators = {
+    [4376191925] = true,     
+}
